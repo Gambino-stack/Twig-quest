@@ -1,0 +1,12 @@
+{
+    "name": "macbookyohan/twig-quest",
+    "authors": [
+        {
+            "name": "Gambino-stack",
+            "email": "69907371+Gambino-stack@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.1"
+    }
+}
